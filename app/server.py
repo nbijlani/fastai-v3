@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/open?id=1zxODzJTMLw39MfsN3Y5khHuTry3m8gFS'
+export_file_url = 'https://drive.google.com/file/d/1zxODzJTMLw39MfsN3Y5khHuTry3m8gFS/view?usp=sharing'
 export_file_name = 'export.pkl'
 
 classes = ['chickenpox','scarletfever','measles']
